@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="hkijckjfgdbnnhjmpmmhgpddpeaiccpq">
-    <updatecheck codebase="https://www.expertevr.com/wp-content/uploads/2025/08/Feedback-Loop.crx" version="1.0.0" />
+    <updatecheck codebase="https://bbexpevr.github.io/feedback-loop/Feedback-Loop.crx" version="1.0.0" />
   </app>
 </gupdate>
